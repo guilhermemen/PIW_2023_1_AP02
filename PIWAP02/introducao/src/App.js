@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 
-import MainPage from './components/Provas/Segunda Avaliação/CRUD/MainPage';
+import MainPage from './components/AP02/MainPage';
 function App() {
     return (
         <>
